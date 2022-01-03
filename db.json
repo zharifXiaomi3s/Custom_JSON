@@ -3,6 +3,14 @@
   {
     "PowerRangers": 
     [
+      {
+        "index": "1",
+        "productID": "ABC123",
+        "title": "Promotion Unifi",
+        "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week45_JDTvsKDA-B2.jpg",
+        "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week45_JDTvsKDA-A2.jpg",
+        "internalAction": "0"
+      }
     ],
     "LigaM": [
       {
