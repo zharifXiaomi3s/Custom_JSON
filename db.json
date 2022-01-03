@@ -9,7 +9,15 @@
         "title": "Promotion Unifi",
         "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week45_JDTvsKDA-B2.jpg",
         "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week45_JDTvsKDA-A2.jpg",
-        "internalAction": "0"
+        "extRedirection": "https://www.apple.com/my/mac-mini/"
+      },
+      {
+        "index": "2",
+        "productID": "DEF456",
+        "title": "playtv@unifi promo",
+        "posterURL": "https://nmhub.hypp.tv/JSON/Images/Week45_JDTvsKDA-B2.jpg",
+        "posterURL_ATV": "https://nmhub.hypp.tv/JSON/Images/Week45_JDTvsKDA-A2.jpg",
+        "extRedirection": "https://www.apple.com/my/macbook-air/"
       }
     ],
     "LigaM": [
